@@ -1,0 +1,17 @@
+/*body{
+	background: url(https://ichef.bbci.co.uk/news/660/cpsprodpb/1EF8/production/_102782970_10.jpg)
+	background-size:cover;
+	background-position: center;
+}*/
+body{
+		background: url(https://ichef.bbci.co.uk/news/660/cpsprodpb/1EF8/production/_102782970_10.jpg);
+	background-size: cover;
+	background-position: center;
+}
+h1{
+	color: purple;
+}
+#content{
+	text-align:center;
+	padding-top: 25%;
+}
